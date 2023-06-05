@@ -1,0 +1,1 @@
+from .tool import is_chinese
